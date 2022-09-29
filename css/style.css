@@ -1,0 +1,35 @@
+html, body {
+    margin: 0 auto;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+.currencyInput {
+    font-family: 'Ubuntu', sans-serif;
+    width: 250px;
+    height: 40px;
+    background: #F5F5F5;
+    font-weight: 300;
+    font-size: 16px;
+    border: 1px solid #414143;
+    margin: 50px;
+    padding-left: 10px;
+    color: #676767;
+
+}
+.currencySelect {
+    height: 40px;
+    width: 80px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+}
+.title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    color: #37363F;
+}
